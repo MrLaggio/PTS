@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/pts/static/css/main.66de512d.css",
+    "main.js": "/pts/static/js/main.c3b838c1.js",
+    "static/media/iphone14yellow.jpg": "/pts/static/media/iphone14yellow.60908720fdaaeb02c5ee.jpg",
+    "static/media/macbookair15.jpg": "/pts/static/media/macbookair15.4a30989031c9380be167.jpg",
+    "static/media/iphone14pro.jpg": "/pts/static/media/iphone14pro.3d22ef77654f29f6e9df.jpg",
+    "static/media/applewatch.jpg": "/pts/static/media/applewatch.f90f9d90200d0f2b0ddc.jpg",
+    "static/media/apple.svg": "/pts/static/media/apple.69a3bf039765dd0d5a167eede3892879.svg",
+    "static/media/search.svg": "/pts/static/media/search.2ae5b638e1e0063a7bb3b823df1e3de6.svg",
+    "index.html": "/pts/index.html",
+    "main.66de512d.css.map": "/pts/static/css/main.66de512d.css.map",
+    "main.c3b838c1.js.map": "/pts/static/js/main.c3b838c1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.66de512d.css",
+    "static/js/main.c3b838c1.js"
+  ]
+}
